@@ -11,7 +11,7 @@ GUI-based Python programs built using **Tkinter** and related libraries.
 | No. | Program | Description |
 |-----|---------|-------------|
 | 1 | `calculator.py` | Basic arithmetic calculator with GUI |
-| 2 | `file_manger.py` | Manages all sort 9f basic operations on files (Add/View/Delete) |
+| 2 | `file_manger.py` | Manages all sort of basic operations on files (Add/View/Delete) |
 | 3 | `student_record.py` | Student record management (Add/View/Delete) |
 | 4 | `login_form.py` | Login and registration form with validation |
 | 5 | `to_do_list.py` | To-Do list app with add/remove tasks |
